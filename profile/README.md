@@ -1,6 +1,6 @@
 # Développeurs Intégrateurs P3 🚀
 
-<img src=("./img/simplon.png") alt="simplon"/> **Simplon**  
+<img src="./img/simplon.png" alt="Simplon" width="200"> **Simplon**  
 📍 ***Lens**, Hauts-de-France*
 
 ## 💻 Les technologies utilisées
