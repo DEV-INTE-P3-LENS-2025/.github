@@ -1,6 +1,6 @@
 # Formation de Développeur Intégrateur P3 🚀
 
-📍 Lens, Hauts-de-France
+📍 ***Lens**, Hauts-de-France*
 
 ## 💻 Les technologies utilisées
 
