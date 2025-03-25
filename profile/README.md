@@ -1,10 +1,6 @@
 # Développeurs Intégrateurs P3 🚀
 
----
-
 📍 ***Lens**, Hauts-de-France*
-
----
 
 ## 💻 Les technologies utilisées
 
