@@ -1,7 +1,6 @@
 # Développeurs Intégrateurs P3 🚀
 
-![img_simplon](./img/simplon.png) **Simplon**
-&nbsp;
+![img_simplon](./img/simplon.png) **Simplon**  
 📍 ***Lens**, Hauts-de-France*
 
 ## 💻 Les technologies utilisées
