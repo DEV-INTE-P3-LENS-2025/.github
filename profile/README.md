@@ -1,5 +1,6 @@
-# Formation de Développeur Intégrateur P3 🚀
+# Développeurs Intégrateurs P3 🚀
 
+![img_simplon](./img/simplon.png) **Simplon**
 📍 ***Lens**, Hauts-de-France*
 
 ## 💻 Les technologies utilisées
