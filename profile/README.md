@@ -1,7 +1,7 @@
 # Développeurs Intégrateurs P3 🚀
 
 <div style="display: flex; align-items: center;">
-    <img src="./img/simplon.png" alt="Simplon" width="200">
+    <img src="./img/simplon.png" alt="Simplon" width="20">
     <strong style="margin-left: 10px;">Simplon</strong>
 </div>
 
