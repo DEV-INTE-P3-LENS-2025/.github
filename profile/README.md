@@ -31,3 +31,4 @@
 ## ✨ Auteurs, contributeurs
 
 * [Rémy Cottrez](https://github.com/RemyCTRZ)
+* Yassen Abarji
