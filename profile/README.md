@@ -31,4 +31,4 @@
 ## ✨ Auteurs, contributeurs
 
 * [Rémy Cottrez](https://github.com/RemyCTRZ)
-* Yassen Abarji
+* [Yassen Abarji](https://github.com/orgs/DEV-INTE-P3-LENS-2025/people/yabarji59)
