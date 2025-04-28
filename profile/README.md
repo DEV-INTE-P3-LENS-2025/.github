@@ -32,9 +32,6 @@
 | [Password Generator](https://github.com/DEV-INTE-P3-LENS-2025/password-generator) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp; | <a href="https://github.com/PandaaxDvlpt"> 🔗 </a> | <a href="https://github.com/LaCageANicolas"> 🔗 </a> | <a href="https://github.com/Drakane"> 🔗 </a> | <a href="https://github.com/oumaima-gaghou"> 🔗 </a> | <a href="https://github.com/Pauline-13"> 🔗 </a> | <a href="https://github.com/Sirolbfr"> 🔗 </a> | <a href="https://github.com/Fionacz"> 🔗 </a> | <a href="https://github.com/bryanT062"> 🔗 </a> | <a href="https://github.com/Audrey2046"> 🔗 </a> | <a href="https://github.com/AlirezaAlavi7713"> 🔗 </a> | <a href="https://github.com/Tonny654"> 🔗 </a> | <a href="https://github.com/nasskconcept"> 🔗 </a> | <a href="https://github.com/SofiaB25"> 🔗 </a> | <a href="https://github.com/"> 🔗 </a> |
 | [Simplon Coffee Craft](https://github.com/DEV-INTE-P3-LENS-2025/SimplonCoffeeCraft) | ![img_html](./img/html.svg)&nbsp;![img_css](./img/css.svg)&nbsp; | <a href="https://github.com/PandaaxDvlpt"> 🔗 </a> | <a href="https://github.com/LaCageANicolas"> 🔗 </a> | <a href="https://github.com/Drakane"> 🔗 </a> | <a href="https://github.com/oumaima-gaghou"> 🔗 </a> | <a href="https://github.com/Pauline-13"> 🔗 </a> | <a href="https://github.com/Sirolbfr"> 🔗 </a> | <a href="https://github.com/Fionacz"> 🔗 </a> | <a href="https://github.com/bryanT062"> 🔗 </a> | <a href="https://github.com/Audrey2046"> 🔗 </a> | <a href="https://github.com/AlirezaAlavi7713"> 🔗 </a> | <a href="https://github.com/Tonny654"> 🔗 </a> | <a href="https://github.com/nasskconcept"> 🔗 </a> | <a href="https://github.com/SofiaB25"> 🔗 </a> | <a href="https://github.com/"> 🔗 </a> |
 
-
-
-https://github.com/DEV-INTE-P3-LENS-2025/SimplonCoffeeCraft/tree/main
 ## ✨ Auteurs, contributeurs
 
 * [Rémy Cottrez](https://github.com/RemyCTRZ)
